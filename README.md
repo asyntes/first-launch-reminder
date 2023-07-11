@@ -1,6 +1,6 @@
 # First Launch Reminder README
 
-This is the README for your extension "first-launch-reminder". This extension displays a reminder message every time you launch Visual Studio Code.
+This extension displays a reminder message every time you launch Visual Studio Code.
 
 ## Features
 
