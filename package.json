@@ -9,13 +9,15 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "first-launch-reminder.helloWorld",
-        "title": "Hello World"
+        "command": "first-launch-reminder.showReminder",
+        "title": "Show Reminder"
       }
     ]
   },
